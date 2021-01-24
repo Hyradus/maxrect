@@ -16,7 +16,8 @@ Installation
 
 .. code-block:: bash
 
-    pip install git+https://${GITHUB_TOKEN}@github.com/planetlabs/maxrect.git
+    pip install git+https://${GITHUB_TOKEN}@github.com/Hyradus/maxrect.git
+    
 
 
 CLI
