@@ -1,6 +1,10 @@
 maxrect
 =======
 
+**Forked from source to implement edit to Error: *Either candidate conic solvers (['CVXOPT']) do not support the cones output by the problem (ExpCone, NonNeg, Zero), or there are not enough constraints in the problem.* as suggested in https://github.com/planetlabs/maxrect/issues/7#issuecomment-634476029**
+
+
+
 Find the maximally inscribed, axis-aligned rectangle for a given polygon.
 Find the intersection of multiple polygons.
 
